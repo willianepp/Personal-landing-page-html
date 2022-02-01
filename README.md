@@ -1,5 +1,5 @@
 # Personal-landing-page-html
-Landing Page with only HTML (merely illustrative)
+A challenge of HTML from DevClub classes
 
 ##
 
